@@ -1,2 +1,2 @@
 # programmeManagement
-College assignment for learning Data Structures. Console-based, this repository is for managing programmes, students, tutors alike.
+College assignment for learning Data Structures. Console-based, this repository contains a system for managing programmes, students, tutors alike.
